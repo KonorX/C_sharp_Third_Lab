@@ -12,6 +12,7 @@ namespace newFirstTry.CopyingAndArchiving
     {
         public static void ArchivingAndCopying(string FileEvent, string filePath,bool create,bool rename,string archivePath,string archiveDateTime,string archiveNameForGZ, string archiveGZextension,string recordingPathOfLog, string recordingDateTime,bool archived)
         {
+            //создаю заранее папку для копирования с датой выполнения и папку с gzip архивом, если файл будет пустой то gzip будет пустая
             string path = Path.Combine(archivePath, DateTime.Now.ToString(archiveDateTime));
             Directory.CreateDirectory(path);
             string gzipPath = Path.Combine(path, archiveNameForGZ);
@@ -25,6 +26,7 @@ namespace newFirstTry.CopyingAndArchiving
             FileStream originalCompressed = null;
             FileStream decompressedFile = null;
             GZipStream forDecompression = null;
+            //начинаем работу с файлами и потоками, пишу всё через try catch finally чтобы при появлении ошибок в работе не было сбоев
             try
             {
                 FileInfo original = new FileInfo(filePath);
