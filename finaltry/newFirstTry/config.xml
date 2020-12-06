@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <methods>
+    <startPath>C:\\source</startPath>
+    <archivingPath>C:\\archive2</archivingPath>
+    <archivingDatetime>dd HH mm ss</archivingDatetime>
+    <archivingNameforgzips>gzips</archivingNameforgzips>
+    <archivingGZextension>.gz</archivingGZextension>
+    <recordingPath>C:\\Ruslan\\logforthirdlab.txt</recordingPath>
+    <recordingDatetimetooutput>dd.MM HH:mm:ss</recordingDatetimetooutput>
+  </methods>
+</data>
+
+
+
+
+
+
+
+
+

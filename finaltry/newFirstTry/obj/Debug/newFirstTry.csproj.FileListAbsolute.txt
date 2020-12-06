@@ -1,0 +1,14 @@
+C:\Ruslan\3sem\isp\ThirdLab\Новая папка\newFirstTry\newFirstTry\bin\Debug\newFirstTry.exe.config
+C:\Ruslan\3sem\isp\ThirdLab\Новая папка\newFirstTry\newFirstTry\bin\Debug\newFirstTry.exe
+C:\Ruslan\3sem\isp\ThirdLab\Новая папка\newFirstTry\newFirstTry\bin\Debug\newFirstTry.pdb
+C:\Ruslan\3sem\isp\ThirdLab\Новая папка\newFirstTry\newFirstTry\obj\Debug\newFirstTry.csprojAssemblyReference.cache
+C:\Ruslan\3sem\isp\ThirdLab\Новая папка\newFirstTry\newFirstTry\obj\Debug\newFirstTry.csproj.CoreCompileInputs.cache
+C:\Ruslan\3sem\isp\ThirdLab\Новая папка\newFirstTry\newFirstTry\obj\Debug\newFirstTry.exe
+C:\Ruslan\3sem\isp\ThirdLab\Новая папка\newFirstTry\newFirstTry\obj\Debug\newFirstTry.pdb
+C:\Ruslan\3sem\isp\ThirdLab\finaltry\newFirstTry\bin\Debug\newFirstTry.exe.config
+C:\Ruslan\3sem\isp\ThirdLab\finaltry\newFirstTry\bin\Debug\newFirstTry.exe
+C:\Ruslan\3sem\isp\ThirdLab\finaltry\newFirstTry\bin\Debug\newFirstTry.pdb
+C:\Ruslan\3sem\isp\ThirdLab\finaltry\newFirstTry\obj\Debug\newFirstTry.csprojAssemblyReference.cache
+C:\Ruslan\3sem\isp\ThirdLab\finaltry\newFirstTry\obj\Debug\newFirstTry.csproj.CoreCompileInputs.cache
+C:\Ruslan\3sem\isp\ThirdLab\finaltry\newFirstTry\obj\Debug\newFirstTry.exe
+C:\Ruslan\3sem\isp\ThirdLab\finaltry\newFirstTry\obj\Debug\newFirstTry.pdb
