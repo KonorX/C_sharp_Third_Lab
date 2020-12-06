@@ -33,7 +33,7 @@ namespace newFirstTry
             Thread loggerThread = new Thread(new ThreadStart(logger.Start));
             loggerThread.Start();
         }
-
+        //StartLogic() метод был создан для дебага так как просто OnStart() без аргументов нельзя вызвать а где аргументы дающиеся по умолчанию взять я хз
         protected override void OnStart(string[] args)
         {
             StartLogic();
@@ -73,6 +73,7 @@ namespace newFirstTry
             watcher.Renamed += Watcher_Renamed;
             
         }
+        //метод загрузки информации из xml
         public void LoadConfig()
         {
             XmlDocument xdocument = new XmlDocument();
@@ -156,7 +157,7 @@ namespace newFirstTry
         }
 
        
-
+        //метод записи того что происходит в папке и работы программы в лог
         public void Recording(string FileEvent, string filePath)
         {
             
